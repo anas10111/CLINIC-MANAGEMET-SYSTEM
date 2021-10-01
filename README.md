@@ -1,0 +1,2 @@
+# CLINIC-MANAGEMET-SYSTEM
+CLINIC MANAG system project
